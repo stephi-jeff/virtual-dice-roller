@@ -1,0 +1,9 @@
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+.dice-roller {
+  width: 13%;
+  display: inline-block;
+}
